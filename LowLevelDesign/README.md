@@ -3,3 +3,6 @@
 
  - Chain Of Responsibility - Logger
  - Command Design Pattern - AirConditioner
+ - Decorator Design Pattern - Pizza
+ - Builder Design Patten - Employee/Student
+ - Null Object Design Pattern
