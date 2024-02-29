@@ -6,3 +6,4 @@
  - Decorator Design Pattern - Pizza
  - Builder Design Patten - Employee/Student
  - Null Object Design Pattern
+ - Composite Design Pattern - FileSystem/Calculator
